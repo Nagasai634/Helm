@@ -1,0 +1,7 @@
+#values
+name: nagasai-app
+replicas: 2
+image:
+  name: nagasaivardhan/app
+  tag:  blue
+port: 80
